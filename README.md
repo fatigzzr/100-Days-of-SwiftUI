@@ -1,3 +1,4 @@
 # 100-Days-of-SwiftUI
 
-Project 01 - WeSplit
+1 - Project 01 - WeSplit
+2 - Challenge Day
